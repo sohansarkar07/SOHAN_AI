@@ -1,4 +1,4 @@
-# Groq Chat Streamlit App
+# SOHAN AI
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groqdemo.streamlit.app/)
 
@@ -62,5 +62,6 @@ The app can be easily customized to include additional language models (as Groq 
 ## Contributing
 
 Contributions are welcome to enhance the app, fix bugs, or improve documentation.
+
 
 Please feel free to fork the repository, make changes, and submit a pull request.
