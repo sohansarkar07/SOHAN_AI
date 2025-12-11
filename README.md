@@ -2,7 +2,8 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groqdemo.streamlit.app/)
 
-![Demo App Screenshot](images/groq_demo.png)
+![Demo App Screenshot](<img width="1867" height="841" alt="Screenshot 2025-12-11 185026" src="https://github.com/user-attachments/assets/ca3d659b-292b-4174-ab77-65550bf5b782" />
+)
 
 This [Streamlit](https://streamlit.io/) app integrates with the [Groq API](https://groq.com/) to provide a chat interface where users can interact with advanced language models. It allows users to choose between two models for generating responses, enhancing the flexibility and user experience of the chat application.
 
@@ -65,3 +66,4 @@ Contributions are welcome to enhance the app, fix bugs, or improve documentation
 
 
 Please feel free to fork the repository, make changes, and submit a pull request.
+
